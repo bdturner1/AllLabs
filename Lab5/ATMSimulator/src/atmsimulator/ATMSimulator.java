@@ -19,7 +19,7 @@ public class ATMSimulator
       try
       {  
          Bank theBank = new Bank();
-         theBank.readCustomers("");
+         theBank.readCustomers("customers.txt");
          theATM = new ATM(theBank);
       }
       catch(IOException e)
@@ -54,9 +54,8 @@ public class ATMSimulator
             else if (command.equalsIgnoreCase("B"))
                theATM.selectAccount(ATM.SAVINGS);
             else if (command.equalsIgnoreCase("C"))
-               theATM.reset();
-            else
-               System.out.println("Illegal input!");                        
+               System.out.println("Quitting");
+               break;                      
          }
          else if (state == ATM.TRANSACT)
          {

@@ -1,0 +1,10 @@
+| Bank |
+------------------------------------
+
+customers	ArrayList<Customer>
+
+------------------------------------
+Bank()
+readCustomers(String filename)
+addCustomer(Customer c)
+findCustomer(int id, int pin)

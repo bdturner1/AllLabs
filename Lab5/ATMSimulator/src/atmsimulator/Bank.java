@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import javax.swing.JOptionPane;
 
 /**
    A bank contains customers with bank accounts.
@@ -55,9 +56,12 @@ public class Bank
    public Customer findCustomer(int aNumber, int aPin)
    {  
       for (Customer c : customers)
-      {  
+      {     
+          if(c.match(aNumber, aPin))
             return c;
       }
+      JOptionPane.showMessageDialog(null, 
+               "Customer not found.");
       return null;
    }
 

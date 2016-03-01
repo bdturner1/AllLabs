@@ -1,0 +1,26 @@
+Stories for Cama State University
+
+Story 1:
+As a student,
+I want to enroll in a class,
+so that I can complete it and get credits.
+
+Story 2:
+As a student,
+I want to drop a class,
+so that I won't be charged tuition.
+
+Story 3:
+As a student,
+I want to submit an assignment,
+so that I can get credit for it.
+
+Story 4:
+As a student,
+I want to pay tuition,
+so that I won't be dropped from my courses.
+
+Story 5:
+As a student,
+I want to request transcripts,
+so that I can have proof of taking courses.

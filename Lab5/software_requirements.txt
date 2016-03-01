@@ -1,0 +1,10 @@
+Software Requirements
+
+Functional:
+1. Text-based interface that allows you to test the ATM and bank classes without being distracted by GUI programming
+2. Graphical interface that mimics an actual ATM.
+3. The ATM should have a keypad to enter numbers, a display to show messages, and a set of buttons, labeled A, B, and C, whose function depends on the state of the machine.
+
+Non-functional:
+1. Expects user to enter customer number on the keypay and press the A button.
+2. Expects user to enter PIN and presses the A button again.
