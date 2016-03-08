@@ -1,0 +1,13 @@
+platform=1457401936000
+cluster.bin=1457401936000
+cluster.etc=1457401936000
+cluster.extra=1457401936000
+cluster.java=1457401936000
+cluster.mavenplatformwordapp=1457401936000
+cluster.platform=1457401936000
+user=1457401936000
+crc=7
+locale=en_US
+branding=mavenplatformwordapp
+java.version=1.8.0_65
+java.vm.version=25.65-b01

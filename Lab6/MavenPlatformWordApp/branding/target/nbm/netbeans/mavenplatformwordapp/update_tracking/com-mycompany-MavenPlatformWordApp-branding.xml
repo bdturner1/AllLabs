@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.mycompany.MavenPlatformWordApp.branding">
+    <module_version install_time="1457401924453" last="true" origin="installer" specification_version="1.0">
+        <file crc="558297190" name="config/Modules/com-mycompany-MavenPlatformWordApp-branding.xml"/>
+        <file crc="95349100" name="core/locale/core_mavenplatformwordapp.jar"/>
+        <file crc="2668504005" name="modules/com-mycompany-MavenPlatformWordApp-branding.jar"/>
+        <file crc="94688194" name="modules/locale/org-netbeans-core-windows_mavenplatformwordapp.jar"/>
+        <file crc="1883555921" name="modules/locale/org-netbeans-core_mavenplatformwordapp.jar"/>
+        <file crc="1276900563" name="update_tracking/com-mycompany-MavenPlatformWordApp-branding.xml"/>
+    </module_version>
+</module>

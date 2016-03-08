@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.mycompany.MavenWordEngine">
+    <module_version install_time="1457401925452" last="true" origin="installer" specification_version="1.0">
+        <file crc="248152424" name="config/Modules/com-mycompany-MavenWordEngine.xml"/>
+        <file crc="185074834" name="modules/com-mycompany-MavenWordEngine.jar"/>
+        <file crc="4145110179" name="update_tracking/com-mycompany-MavenWordEngine.xml"/>
+    </module_version>
+</module>

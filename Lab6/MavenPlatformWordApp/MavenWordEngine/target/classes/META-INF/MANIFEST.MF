@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: com/mycompany/mavenwordengine/Bundle
+ .properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Implementation-Version: 1.0-20160308
+OpenIDE-Module-Build-Version: 201603080152
+OpenIDE-Module: com.mycompany.MavenWordEngine
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Display-Category: com.mycompany
+OpenIDE-Module-Name: MavenWordEngine
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.26.1, org.openide.windows > 6.74.1, org.openide.util > 9.5.1,
+  org.openide.util.ui > 9.4.1, org.openide.util.lookup > 8.32.1, org.o
+ penide.awt > 7.65.1, org.netbeans.modules.settings/1 > 1.48.1
+
